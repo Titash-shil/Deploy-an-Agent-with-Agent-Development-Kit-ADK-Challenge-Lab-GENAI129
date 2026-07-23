@@ -12,4 +12,4 @@ adk deploy agent_engine paint_agent
 --staging_bucket gs://
 ```
 
-Watch the next process from the video carefully!
+- ### Watch the next process from the video carefully!
